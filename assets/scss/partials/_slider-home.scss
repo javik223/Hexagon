@@ -1,0 +1,17 @@
+.slider {
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      padding-top: em(90);
+
+      button, .button {
+            background-color: transparent;
+            border: 1px solid $white;
+            padding: em(15) em(20);
+            border-radius: em(5);
+
+            @media #{$medium-up} {
+                  font-size: em(20);
+            }
+      }
+}

@@ -1,0 +1,1 @@
+$(document).ready(function(){function o(){$backgrounds=n.data("bg"),console.log(typeof $backgrounds),"object"==typeof $backgrounds&&$backgrounds.forEach(function(){console.log(key,value)})}var n=$("body");o()});

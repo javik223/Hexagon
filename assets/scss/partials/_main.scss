@@ -1,0 +1,50 @@
+.main {
+      min-height: 100%;
+      background-color: $black;
+      width: 100%;
+      position: relative;
+
+      &.home {
+            background: image-url("bg.jpg");
+            background-size: cover;
+      }
+
+      @media #{$medium-up} {
+            @include grid-column(
+                  $columns: 11,
+                  $collapse: true
+            );
+      }
+
+      
+}
+.teaser {
+      text-align: center;
+
+      .subtext {
+            @media #{$medium-up} {
+                  font-size: em(30) !important;
+            }
+      }
+}
+.big-header {
+      font-size: rem-calc(50);
+      line-height: 1em;
+      margin: 0;
+      margin-bottom: rem-calc(20);
+
+      @media #{$medium-only} {
+            font-size: rem-calc(100);
+            text-align: center;
+      }
+      @media #{$large-up} {
+            font-size: rem-calc(100);
+            text-align: center;
+      }
+
+      .home & {
+            @media #{$medium-up} {
+                  margin-top: em(10);
+            }
+      }
+}

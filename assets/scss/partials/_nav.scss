@@ -1,0 +1,131 @@
+.nav {
+      background-color: $black;
+      width: 100%;
+      padding: em(30) !important;
+      position: relative;
+      z-index: 1000;
+
+      @media #{$medium-up} {
+            @include grid-column(
+                  $columns:1,
+                  $float: right,
+                  $collapse: true
+            );
+            
+            //Set Navigation height to the size of the browser;
+            min-height: 100%;
+            //positon: relative !important;
+      }
+
+      @media #{$small-only} {
+            position: absolute;
+            background-color: transparent;
+            padding: em(45) em(20) !important;
+            top: 0;
+            left: 0;
+      }
+}
+.menu {
+      width: 40px;
+      position: relative;
+      height: 20px;
+      float: left;
+      cursor: pointer;
+
+      .top-bar, .middle-bar, .bottom-bar {
+            content: '';
+            width: 100%;
+            border-bottom: 4px solid $white;
+            position: absolute;
+            top: 0;
+            left: 0;
+            display: block;
+            @include transition ( all 0.3s ease-in-out );
+
+            @media #{$small-only} {
+                  border-bottom: 3px solid $white;
+            }
+      }
+      .top-bar {
+            
+      }
+      .middle-bar {
+            @include transform(translateY(em(10%)));
+      }
+      .bottom-bar {
+            @include transform(translateY(em(20%)));
+
+      }
+
+      &:hover {
+            .top-bar {
+                  @include transform(translateY(-30%));
+                  //@include transform-origin( center center );
+            }
+           .bottom-bar {
+                    @include transform(translateY(130%));
+                       // @include transform-origin( center center );
+            }
+      }
+
+      @media #{$small-only} {
+            width: 30px;
+      }
+}
+.social {
+      position: absolute;
+      bottom: em(20);
+      right: rem-calc(3);
+      float: left;
+      width: 100%;
+      text-align: center;
+
+      span {
+            width: 100%;
+            text-align: center;
+            display: block;
+            margin-top: em(20);
+            font-size: em(30);
+
+            @media #{$small-only} {
+                  font-size: em(20);
+                  display: inline;
+                  @include inline-block;
+                  width: auto;
+                  padding-right: em(10);
+            }
+      }
+
+      @media #{$small-only} {
+            float: right;
+            width: auto;
+            margin-right: em(10);
+      }
+}
+.nav-links {
+      width: 400px;
+      position: absolute;
+      text-align: right;
+      right: 120%;
+
+      a {
+            text-decoration: none;
+            color: $white;
+            text-align: right;
+            font-size: em(20);
+            font-weight: 100;
+            line-height: 1.4;
+      }
+
+      @media #{$small-only} {
+            right: 0;
+            font-weight: normal;
+            text-align: center;
+            width: 100%;
+            font-size: em(26);
+            line-height: 0.6;
+            background-color: rgba($black, 0.9);
+            padding-top: em(50);
+            padding-bottom: em(50);
+      }
+}
