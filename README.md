@@ -27,3 +27,9 @@ If you'd like to upgrade to a newer version of Foundation down the road just run
 ```bash
 bower update
 ```
+
+#Hexagon Network Site Redesign
+
+New Site with New Design
+
+click here to preview [Image] [/assets/img/screenshot.tiff]
