@@ -2,4 +2,4 @@
 
 New Site with New Design
 
-click here to preview [Image](/assets/img/screenshot.tiff)
+click here to preview [Image](screenshot.tiff)
