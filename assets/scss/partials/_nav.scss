@@ -1,11 +1,15 @@
 .nav {
-      background-color: $black;
-      width: 100%;
-      padding: em(30) !important;
-      position: relative;
-      z-index: 1000;
+      width: 10%;
+      padding: em(30) 0;
+      position: fixed;
+      right: 0;
+      height: 100%;
+      float: right;
+      z-index: 500;
 
       @media #{$medium-up} {
+            background-color: $black;
+            padding: em(30);
             @include grid-column(
                   $columns:1,
                   $float: right,
@@ -17,20 +21,47 @@
             //positon: relative !important;
       }
 
-      @media #{$small-only} {
+      @media #{$medium-only} {
+            @include grid-column(
+                  $columns:1.2,
+                  $float: right,
+                  $collapse: true
+            );
+      }
+
+     /* @media #{$small-only} {
             position: absolute;
             background-color: transparent;
             padding: em(45) em(20) !important;
             top: 0;
             left: 0;
-      }
+      }*/
+      
+     /* &.expand {
+            @include grid-column(
+                  $columns: 12,
+                  $float: right,
+                  $collapse: true
+            );
+
+            @include transition(width 1.0s, ease-in-out);
+      }*/
 }
 .menu {
-      width: 40px;
+      width: 30px;
       position: relative;
       height: 20px;
-      float: left;
+      float: right;
       cursor: pointer;
+      right: rem-calc(40);
+
+      @media #{$small-only} {
+            margin-top: rem-calc(20);
+      }
+
+      @media #{$medium-only} {
+            right: rem-calc(30);
+      }
 
       .top-bar, .middle-bar, .bottom-bar {
             content: '';
@@ -68,26 +99,25 @@
             }
       }
 
-      @media #{$small-only} {
-            width: 30px;
-      }
 }
 .social {
       position: absolute;
       bottom: em(20);
-      right: rem-calc(3);
-      float: left;
-      width: 100%;
-      text-align: center;
+      right: rem-calc(2);
+      //margin: auto auto;
+      right: rem-calc(40);
+      float: right;
+      width: 50px;
 
       span {
-            width: 100%;
-            text-align: center;
             display: block;
             margin-top: em(20);
             font-size: em(30);
+            float: right;
 
             @media #{$small-only} {
+                  float: none;
+                  text-align: center;
                   font-size: em(20);
                   display: inline;
                   @include inline-block;
@@ -97,35 +127,59 @@
       }
 
       @media #{$small-only} {
+            width: 100%;
             float: right;
             width: auto;
             margin-right: em(10);
+            display: none;
+      }
+
+      @media #{$medium-only} {
+            right: rem-calc(30);
       }
 }
 .nav-links {
-      width: 400px;
+      width: 100%;
       position: absolute;
       text-align: right;
-      right: 120%;
+      top: rem-calc(120);
+      //opacity: 0;
+      text-align: center;
+      @include perspective( 20000px );
+      margin: 0;
+      z-index: 10500;
 
       a {
             text-decoration: none;
             color: $white;
             text-align: right;
-            font-size: em(20);
+            font-size: em(80);
             font-weight: 100;
-            line-height: 1.4;
-      }
+            line-height: 1;
+            opacity: 0;
+            @include inline-block;
+            position: relative;
 
+            @media #{$small-only} {
+                  font-size: em(40);
+                  line-height: 1.1;
+            }
+
+            @media #{$medium-only} {
+                  font-size: em(60);
+            }
+
+      }
+      
       @media #{$small-only} {
-            right: 0;
-            font-weight: normal;
-            text-align: center;
-            width: 100%;
-            font-size: em(26);
-            line-height: 0.6;
-            background-color: rgba($black, 0.9);
-            padding-top: em(50);
+            //right: 0;
+           // font-weight: normal;
+            //text-align: center;
+            //width: 100%;
+            //font-size: em(26);
+            //line-height: 0.6;
+            //background-color: rgba($black, 0.9);
+            padding-top: em(5);
             padding-bottom: em(50);
       }
 }

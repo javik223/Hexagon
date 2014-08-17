@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 
-    <title>Foundation</title>
+    <title>The Hexagon Network</title>
     <link rel="stylesheet" href="/assets/css/app.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
-  <body data-bg='{"1": "victory", "2": "Emeka", "3": "Tobore"}'>
-    <nav class="nav">
-        <div class="menu">
+  <body data-bg='["background-ugie.jpg", "bg.jpg"]'>
+    <nav class="nav js-nav">
+        <div class="menu js-menu">
             <span class="top-bar">&nbsp;</span>
 
             <span class="middle-bar">&nbsp;</span>
@@ -20,13 +20,13 @@
             <span class="bottom-bar">&nbsp;</span>
         </div>
 
-        <ul class="nav-links">
-            <li><a href="/entertainment">Entertainment</a></li>
-            <li><a href="hospitality-leisure">Hospitality &amp; Lesirue</a></li>
-            <li><a href="media-publishing">Media/Publishing</a></li>
-            <li><a href="tourism">Tourism</a></li>
-            <li><a href="beverage">Beverage</a></li>
-            <li><a href="about">About</a></li>
+        <ul class="nav-links js-nav-links">
+            <li><a href="/entertainment.html">Entertainment</a></li>
+            <li><a href="/hospitality-and-leisure.html">Hospitality &amp; Leisure</a></li>
+            <li><a href="/publishing.html">Media/Publishing</a></li>
+            <li><a href="/tourism.html">Tourism</a></li>
+            <li><a href="/beverage.html">Beverage</a></li>
+            <li><a href="/about.html">About</a></li>
         </ul>
 
         <div class="social">
@@ -38,11 +38,13 @@
 
 
     <div class="main home">
-        <div class="logo">
-            <img src="/assets/img/hexagon-network-logo.svg" alt="hexagon Network">
+        <a href="/" title="The Hexagon Network">
+            <div class="logo">
+                <img src="/assets/img/hexagon-network-logo.svg" alt="hexagon Network">
 
-            <h1 class='title'>Hexagon Network</h1>
-        </div>
+                <h1 class='title'>Hexagon Network</h1>
+            </div>
+        </a>
 
         <div class="teaser">
             <h1 class="big-header">A Passion for Happiness</h1>
@@ -53,13 +55,14 @@
         
         <div class="slider">
             <div class="slider_item">
-               <span class="button round">Entertianment</span>
+               <span class="button round">Entertainment</span>
             </div>
         </div>
         
     </div>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/assets/js/TweenMax.min.js"></script>
     <script src="/assets/js/app.js"></script>
   </body>
 </html>

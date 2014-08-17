@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <title>Testing jquery plugin file</title>
+      <script src="bower_components/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+      Here body I love this 
+      <a href="myfont">This is what I'm talking about</a>
+
+      <a href="Other font">Another font</a>
+<script>
+( function( $ ){
+
+      $.fn.highlight = function( options ) {
+            //Iterate and reformat each matched element.
+            return this.each( function() {
+                  var elem = $( this );
+
+                  // ...
+                  var markup = elem.html();
+
+                  //Call our format function
+                  markup = $.fn.highlight.format( markup );
+                  elem.html( markup );
+            } );
+      };
+
+      //Define our format function
+      $.fn.highlight.format = function( txt ) {
+            $( "<div id=\"the-gallery-wrapper\"/>" ).appendTo( "body" );
+            return "<strong>" + txt + "</strong>";
+      };
+
+}( jQuery ) );
+$( "body" ).highlight.format(  );
+</script>
+</body>
+</html>

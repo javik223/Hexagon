@@ -11,12 +11,10 @@
 
       @media #{$medium-up} {
             @include grid-column(
-                  $columns: 11,
+                  $columns: 11.03,
                   $collapse: true
             );
-      }
-
-      
+      }      
 }
 .teaser {
       text-align: center;
@@ -47,4 +45,287 @@
                   margin-top: em(10);
             }
       }
+}
+.intro {
+      text-align: center; 
+      position: relative;
+      z-index: 20;
+      padding-bottom: rem-calc(100);
+
+      h1 {
+            font-size: rem-calc(14);
+            font-weight: 400;
+            letter-spacing: 4px;
+
+            @media #{$medium-up} {
+                  font-size: rem-calc(20);
+            }
+      }
+      h2 {
+            font-weight: 300;
+            font-size: rem-calc(34);
+            margin-bottom: rem-calc(80);
+
+            @media #{$medium-only} {
+                  margin-bottom: rem-calc(100);
+                  font-size: rem-calc(50);
+            }
+
+             @media #{$large-up} {
+                  margin-bottom: rem-calc(150);
+                  font-size: rem-calc(50);
+            }
+      }
+      p {
+            line-height: 2;
+      }
+}
+.centered {
+      text-align: center;
+}
+.section__cover-image {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+
+      //@media
+}
+.section__cover-image {
+      text-align: center;
+      @media #{$small-only} {
+            position: relative;
+            height: auto;
+
+            img {
+                  height: auto;
+                  margin-bottom: rem-calc(30);
+            }
+      }
+
+      @media #{$large-up} {
+            img {
+                  width: 100% !important;
+                  height: auto;
+            }
+      }
+
+       @media #{$medium-only} {
+            img {
+                  width: auto !important;
+                  max-width: none !important;
+                  height: 100%;
+            }
+      }
+}
+.section {
+      width: 100%;
+      float: left;
+      position: relative;
+      z-index: 20;
+      padding-bottom: rem-calc(50);
+      padding-top: rem-calc(50);
+      overflow: hidden;
+      display: table-cell !important;
+      vertical-align: middle;
+      border-bottom: 1px solid darken($gray, 16%);
+      overflow: hidden;
+
+      @media #{$small-only} {
+           p, h1, h2, h3, h4, h5, h6 {
+                  padding-left: rem-calc(20);
+                  padding-right: rem-calc(20);
+           }
+      }
+
+      @media #{$medium-only} {
+            padding-bottom: rem-calc(100);
+            padding-top: rem-calc(120);
+            border: none;
+      }
+
+      @media #{$large-up} {
+            padding-bottom: rem-calc(100);
+            padding-top: rem-calc(150);
+            border: none;
+            min-height: rem-calc(600);
+      }
+
+      h2 {
+            margin-bottom: rem-calc(50);
+
+            @media #{$medium-only} {
+                  margin-bottom: rem-calc(100);
+            }
+
+            @media #{$large-up} {
+                  margin-bottom: rem-calc(100);
+            }
+      }
+
+      > h2 {
+            z-index: 100000;
+      }
+      &.light {
+            background-color: $white;
+            color: $gray;
+            border-bottom: none;
+
+            h2,h3,h4,h5,h6 {
+                  color: $gray;
+            }
+
+            p, h3 {
+                  padding-left: 0;
+                  padding-right: 0;
+            }
+      }
+      &.no-padding {
+            padding-top: 0;
+            padding-bottom: 0;
+      }
+}
+.intro, .section {
+            h1,h2,h3,h4,h5,h6,p {
+            position: relative;
+            font-weight: 300 !important;
+      }
+}
+.intro-hospitality {
+      background: image-url("/assets/img/hexmain.jpg");
+      background-size: cover;
+}
+.intro-about {
+      background: image-url("bg.jpg");
+      background-size: cover;
+      max-height: rem-calc(400);
+}
+.intro-entertainment {
+      background: image-url("/assets/img/hexagon-entertainment-bg.jpg");
+      background-size: cover;
+}
+.intro-tourism {
+      background: image-url("/assets/img/the-hexagon-network-tourism.jpg");
+      background-size: cover;
+
+      min-height: rem-calc(400);
+      background-position: center center;
+
+      @media #{$medium-up} {
+            min-height: rem-calc(700);
+      }
+}
+.intro-beverage {
+      background: image-url("/assets/img/samis-premium-water.jpg");
+      background-size: cover;
+      min-height: rem-calc(400);
+      background-position: center center;
+
+      @media #{$medium-up} {
+            min-height: rem-calc(700);
+      }
+}
+.intro-publishing {
+      background: image-url("/assets/img/urban-royale-magazine-banner-image.jpg");
+      background-size: cover;
+      min-height: rem-calc(400);
+      background-position: center center;
+
+      @media #{$medium-up} {
+            min-height: rem-calc(700);
+      }
+}
+.collapse {
+      .column {
+            padding: 0;
+      }
+}
+.hero-events {
+      background: image-url("events-bg.jpg");
+      background-size: cover;
+}
+.hero-ugie {
+      background-color: $white;
+      color: $gray;
+
+      h2 {
+            color: #f44b00;
+      }
+
+      h3 {
+            color: $gray;
+      }
+}
+.hero-awards {
+      .section__cover-image {
+            @media #{$small-only} {
+                  img {
+                        width: 300% !important;
+                        max-width: none;
+                        margin-bottom: rem-calc(-400);
+                  }
+            }
+      }
+
+     ul {
+            li {
+                  padding-bottom: rem-calc(20);
+                  position: relative;
+
+                  &:before {
+                        content: '\2713';
+                        left: rem-calc(-20);
+                        position: absolute;
+                  }
+            }
+     }
+}
+.hero-crown-gallery {
+      background-color: #d9b058;
+      margin-top: rem-calc(0);
+      padding-top: rem-calc(100);
+      border: none;
+
+      img {
+            padding-bottom: rem-calc(20);
+      }
+}
+.hero-issue-3 {
+      background-color: #a76b16;
+      border: none;
+
+      img {
+            padding-bottom: rem-calc(20);
+      }
+}
+.carousel {
+      text-align: center;
+      padding-top: rem-calc(30);
+
+      p {
+            padding-top: rem-calc(20);
+            font-size: rem-calc(12);
+            color: lighten($gray, 40%);
+      }
+}
+.samis-water-logo {
+      float: left;
+      overflow: visible;
+      margin-top: rem-calc(-150%);
+      margin-bottom: rem-calc(-100%);
+
+      @media #{$medium-up} {
+            margin-top: rem-calc(-200%);
+            margin-bottom: rem-calc(-200%);
+      }
+
+       @media #{$large-up} {
+            margin-top: rem-calc(-200%);
+            margin-bottom: rem-calc(-250%);
+      }
+}
+.small {
+      font-size: 80%;
 }

@@ -1,9 +1,10 @@
 .logo {
       text-align: center;
       padding: rem-calc(50);
-      z-index: 6000;
+      position: relative;
 
       img {
+            text-align: center;
             max-width: 50px;
 
             @media #{$medium-up} {

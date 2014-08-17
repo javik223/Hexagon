@@ -5,6 +5,7 @@
 @import "foundation/components/grid";
 @import "foundation/components/buttons";
 @import "partials/fonts";
+@import "foundation/components/type";
 
 // Or selectively include components
 // @import
@@ -19,7 +20,6 @@
 //   "foundation/components/dropdown-buttons",
 //   "foundation/components/flex-video",
 //   "foundation/components/forms",
-//   "foundation/components/grid",
 //   "foundation/components/inline-lists",
 //   "foundation/components/joyride",
 //   "foundation/components/keystrokes",
@@ -49,7 +49,12 @@ html {
 }
 body {
       width: 100%;
-      overflow-x: hidden;
+      //overflow-x: hidden;
+      background-color: $black;
+      color: $white;
+}
+h1,h2,h3,h4,h5,h6 {
+	color: $white;
 }
 @import "partials/defaults";
 @import "partials/logo";
