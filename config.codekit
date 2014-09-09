@@ -78,6 +78,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/contestants-at-the-comedy-faceoff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131410,
+		"inputAbbreviatedPath": "\/assets\/img\/contestants-at-the-comedy-faceoff.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/contestants-at-the-comedy-faceoff.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/crown-boutique-hotel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -115,6 +125,26 @@
 		"initialSize": 43280,
 		"inputAbbreviatedPath": "\/assets\/img\/fresh-water-from-leaves-samis-water.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/fresh-water-from-leaves-samis-water.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109615,
+		"inputAbbreviatedPath": "\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/guests.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113600,
+		"inputAbbreviatedPath": "\/assets\/img\/guests.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/guests.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -255,6 +285,16 @@
 		"initialSize": 130319,
 		"inputAbbreviatedPath": "\/assets\/img\/hospitality.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hospitality.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124192,
+		"inputAbbreviatedPath": "\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -418,6 +458,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/urban-royale-magazine-issue1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86194,
+		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue1.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/urban-royale-magazine-issue2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -505,6 +555,16 @@
 		"initialSize": 103356,
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/valentine-lovers-ball.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150234,
+		"inputAbbreviatedPath": "\/assets\/img\/valentine-lovers-ball.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/valentine-lovers-ball.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -6423,6 +6483,14 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config.rb",
 		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
 	"\/entertainment.html": {

@@ -51,7 +51,7 @@ $(document).ready(function(){
             this.menuTimeline.to(this.$el, 0.6, {width: "100%", z:0, transformOrigin: "50% 100% 10%", backgroundColor: "#000", ease:Quint.easeOut})
 
             //Make the Link Wrapper Visible
-            .to(this.$navElem, 0.1, {autoAlpha: 1, z:0, ease:Expo.easeInOut});
+            .to(this.$navElem, 0.1, {autoAlpha: 1, z:0, delay: -1, ease:Expo.easeInOut});
 
             //Make Link Item visible initially
             this.$navElemLinks.css({opacity: 1});

@@ -2846,7 +2846,7 @@ h1 {
   width: 100%;
   position: absolute;
   text-align: right;
-  top: 7.5rem;
+  top: 3.75rem;
   text-align: center;
   -webkit-perspective: 20000px;
   -moz-perspective: 20000px;
@@ -2859,7 +2859,7 @@ h1 {
   text-decoration: none;
   color: white;
   text-align: right;
-  font-size: 5em;
+  font-size: 4.375em;
   font-weight: 100;
   line-height: 1;
   opacity: 0;
@@ -2873,7 +2873,7 @@ h1 {
 @media only screen and (max-width: 40em) {
   /* line 152, ../scss/partials/_nav.scss */
   .nav-links a {
-    font-size: 2.5em;
+    font-size: 1.875em;
     line-height: 1.1;
   }
 }
@@ -3149,7 +3149,7 @@ h1 {
 
 /* line 209, ../scss/partials/_main.scss */
 .intro-tourism {
-  background: url('/assets/img/the-hexagon-network-tourism.jpg?1408121191');
+  background: url('/assets/img/the-hexagon-network-tourism.jpg?1408359011');
   background-size: cover;
   min-height: 25rem;
   background-position: center center;
@@ -3163,7 +3163,7 @@ h1 {
 
 /* line 220, ../scss/partials/_main.scss */
 .intro-beverage {
-  background: url('/assets/img/samis-premium-water.jpg?1407439069');
+  background: url('/assets/img/samis-premium-water.jpg?1408359015');
   background-size: cover;
   min-height: 25rem;
   background-position: center center;
@@ -3177,7 +3177,7 @@ h1 {
 
 /* line 230, ../scss/partials/_main.scss */
 .intro-publishing {
-  background: url('/assets/img/urban-royale-magazine-banner-image.jpg?1408132996');
+  background: url('/assets/img/urban-royale-magazine-banner-image.jpg?1408359012');
   background-size: cover;
   min-height: 25rem;
   background-position: center center;
