@@ -142,13 +142,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/assets\/img\/Benin-bronze-works.jpg": {
+	"\/assets\/img\/benin-bronze-works.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 38233,
-		"inputAbbreviatedPath": "\/assets\/img\/Benin-bronze-works.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/Benin-bronze-works.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/benin-bronze-works.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/benin-bronze-works.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -160,7 +160,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/beverage-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/beverage-bg.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/bg.jpg": {
 		"fileType": 16384,

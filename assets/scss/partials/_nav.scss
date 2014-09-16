@@ -50,10 +50,14 @@
 .menu {
       width: 30px;
       position: relative;
-      height: 20px;
+      height: 30px;
       float: right;
       cursor: pointer;
       right: rem-calc(40);
+      @include inline-block;
+      padding-top: rem-calc(20);
+      padding-bottom: rem-calc(20);
+      top: rem-calc(10);
 
       @media #{$small-only} {
             margin-top: rem-calc(20);
@@ -71,6 +75,7 @@
             top: 0;
             left: 0;
             display: block;
+            margin-top: rem-calc(-10);
             @include transition ( all 0.3s ease-in-out );
 
             @media #{$small-only} {
@@ -78,12 +83,14 @@
             }
       }
       .top-bar {
-            
+            top: rem-calc(-20);
       }
       .middle-bar {
+            top: rem-calc(-20);
             @include transform(translateY(em(10%)));
       }
       .bottom-bar {
+            top: rem-calc(-20);
             @include transform(translateY(em(20%)));
 
       }
@@ -97,6 +104,20 @@
                     @include transform(translateY(130%));
                        // @include transform-origin( center center );
             }
+            .menu-text {
+                    @include transform(translateY(20%));
+            }
+      }
+
+      .menu-text {
+            top: rem-calc(-20);
+            @include transform(translateY(-100%));
+            font-size: rem-calc(10);
+            text-align: center;
+            padding-left: rem-calc(2);
+            @include inline-block;
+            @include transition ( all 0.3s ease-in-out );
+            opacity: 0.5;
       }
 
 }
@@ -148,6 +169,10 @@
       @include perspective( 20000px );
       margin: 0;
       z-index: 10500;
+
+      li {
+            width: 100%;
+      }
 
       a {
             text-decoration: none;
