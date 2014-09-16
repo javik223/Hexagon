@@ -9,9 +9,8 @@
     <title>The Hexagon Network</title>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/assets/css/app.css" />
-    <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
-  <body data-bg='["background-ugie.jpg", "bg.jpg"]'>
+  <body>
     <nav class="nav js-nav">
         <div class="menu js-menu">
             <span class="top-bar">&nbsp;</span>
@@ -40,6 +39,23 @@
 
 
     <div class="main home">
+         <div class="slider">
+            <div class="slider_item" data-bg="/assets/img/hospitality-bg.jpg">
+               <h1 class="slider_item_text">Hospitality</h1>
+            </div>
+            <div class="slider_item" data-bg="/assets/img/tourism-bg.jpg">
+               <h1 class="slider_item_text">Tourism</h1>
+            </div>
+
+            <div class="slider_item" data-bg="/assets/img/entertainment-bg.jpg" class="ent">
+               <h1 class="slider_item_text">Entertainment</h1>
+            </div>
+
+            <div class="slider_item" data-bg="/assets/img/publishing-bg.jpg">
+               <h1 class="slider_item_text">Media &amp; Publishing</h1>
+            </div>
+        </div>
+
         <a href="/" title="The Hexagon Network">
             <div class="logo">
                 <img src="/assets/img/hexagon-network-logo.svg" alt="hexagon Network">
@@ -53,18 +69,13 @@
 
             <p class="subtext">A network delivering delight</p>
         </div>
-
-        
-        <!--<div class="slider">
-            <div class="slider_item">
-               <span class="button round">Entertainment</span>
-            </div>
-        </div>-->
         
     </div>
 
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="/assets/js/TweenMax.min.js"></script>
-    <script src="/assets/js/app.js"></script>
+    <div class="loader"></div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1-rc2/jquery.min.js" async></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js" async></script> <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/TweenMax.min.js" async></script>
+    <script src="/assets/js/app.js" async></script>
   </body>
 </html>

@@ -36,7 +36,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/background-ugie.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/background-ugie.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/Benin-bronze-works.jpg": {
 		"fileType": 16384,
@@ -46,7 +46,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/Benin-bronze-works.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/Benin-bronze-works.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/bg.jpg": {
 		"fileType": 16384,
@@ -56,7 +56,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/bg.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/club-hexagon.jpg": {
 		"fileType": 16384,
@@ -66,7 +66,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/club-hexagon.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/club-hexagon.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/coconutbar.jpg": {
 		"fileType": 16384,
@@ -76,7 +76,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/coconutbar.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/coconutbar.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/contestants-at-the-comedy-faceoff.jpg": {
 		"fileType": 16384,
@@ -86,7 +86,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/contestants-at-the-comedy-faceoff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/contestants-at-the-comedy-faceoff.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/crown-boutique-hotel.jpg": {
 		"fileType": 16384,
@@ -96,7 +96,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/crown-boutique-hotel.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/crown-boutique-hotel.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/crowne-gallery.jpg": {
 		"fileType": 16384,
@@ -106,7 +106,17 @@
 		"inputAbbreviatedPath": "\/assets\/img\/crowne-gallery.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/crowne-gallery.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/entertainment-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99516,
+		"inputAbbreviatedPath": "\/assets\/img\/entertainment-bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/entertainment-bg.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/events-bg.jpg": {
 		"fileType": 16384,
@@ -116,7 +126,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/events-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/events-bg.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/fresh-water-from-leaves-samis-water.jpg": {
 		"fileType": 16384,
@@ -126,7 +136,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/fresh-water-from-leaves-samis-water.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/fresh-water-from-leaves-samis-water.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg": {
 		"fileType": 16384,
@@ -136,7 +146,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/gordons-with-contenstants-at-the-comedy-faceoff.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/guests.jpg": {
 		"fileType": 16384,
@@ -146,7 +156,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/guests.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/guests.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hex-entertainment-events.png": {
 		"fileType": 32768,
@@ -156,7 +166,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hex-entertainment-events.png",
 		"outputAbbreviatedPath": "\/assets\/img\/hex-entertainment-events.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hex-entertainment-ugie-carnival.jpg": {
 		"fileType": 16384,
@@ -166,7 +176,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hex-entertainment-ugie-carnival1.jpg": {
 		"fileType": 16384,
@@ -176,7 +186,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival1.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hex-entertainment-ugie-carnival2.jpg": {
 		"fileType": 16384,
@@ -186,7 +196,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival2.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hex-entertainment-ugie-carnival3.jpg": {
 		"fileType": 16384,
@@ -196,7 +206,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hex-entertainment-ugie-carnival3.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-awards.png": {
 		"fileType": 32768,
@@ -206,7 +216,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-awards.png",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-awards.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-club-dancing.jpg": {
 		"fileType": 16384,
@@ -216,7 +226,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-club-dancing.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-club-dancing.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-coconut-bar.jpg": {
 		"fileType": 16384,
@@ -226,7 +236,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-coconut-bar2.jpg": {
 		"fileType": 16384,
@@ -236,7 +246,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar2.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-coconut-bar3.jpg": {
 		"fileType": 16384,
@@ -246,7 +256,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-coconut-bar3.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-entertainment-bg.jpg": {
 		"fileType": 16384,
@@ -256,7 +266,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-entertainment-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-entertainment-bg.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexagon-network-tourism-benin-soldiers.jpg": {
 		"fileType": 16384,
@@ -266,7 +276,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexagon-network-tourism-benin-soldiers.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexagon-network-tourism-benin-soldiers.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/hexmain.jpg": {
 		"fileType": 16384,
@@ -276,7 +286,17 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hexmain.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hexmain.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/hospitality-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40370,
+		"inputAbbreviatedPath": "\/assets\/img\/hospitality-bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hospitality-bg.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/hospitality.jpg": {
 		"fileType": 16384,
@@ -286,7 +306,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/hospitality.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hospitality.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg": {
 		"fileType": 16384,
@@ -296,7 +316,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/mi-with-ice-prince-at-the-valentine-lover's-ball.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/prince-omoregbe-erediauwa.jpg": {
 		"fileType": 16384,
@@ -306,7 +326,17 @@
 		"inputAbbreviatedPath": "\/assets\/img\/prince-omoregbe-erediauwa.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/prince-omoregbe-erediauwa.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/publishing-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49438,
+		"inputAbbreviatedPath": "\/assets\/img\/publishing-bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/publishing-bg.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/samis-premium-water-in-water.jpg": {
 		"fileType": 16384,
@@ -316,7 +346,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/samis-premium-water-in-water.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/samis-premium-water-in-water.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/samis-premium-water.jpg": {
 		"fileType": 16384,
@@ -326,7 +356,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/samis-premium-water.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/samis-premium-water.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/samis-water-logo.jpg": {
 		"fileType": 16384,
@@ -336,7 +366,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/samis-water-logo.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/samis-water-logo.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/samis-water-premium-water.jpg": {
 		"fileType": 16384,
@@ -346,7 +376,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/samis-water-premium-water.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/samis-water-premium-water.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/shakaus-bg.jpg": {
 		"fileType": 16384,
@@ -356,7 +386,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/shakaus-bg.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/shakaus-bg.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/spinhex-dj-championship1.jpg": {
 		"fileType": 16384,
@@ -366,7 +396,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/spinhex-dj-championship1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/spinhex-dj-championship1.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/spinhex-dj-championship2.jpg": {
 		"fileType": 16384,
@@ -376,7 +406,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/spinhex-dj-championship2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/spinhex-dj-championship2.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/testimage.jpg": {
 		"fileType": 16384,
@@ -386,7 +416,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/testimage.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/testimage.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/The-hexagon-guests.jpg": {
 		"fileType": 16384,
@@ -396,7 +426,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/The-hexagon-guests.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/The-hexagon-guests.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/the-hexagon-liveband.jpg": {
 		"fileType": 16384,
@@ -406,7 +436,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/the-hexagon-liveband.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/the-hexagon-liveband.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/the-hexagon-network-benin-statues.jpg": {
 		"fileType": 16384,
@@ -416,7 +446,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/the-hexagon-network-benin-statues.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/the-hexagon-network-benin-statues.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/the-hexagon-network-tourism.jpg": {
 		"fileType": 16384,
@@ -426,7 +456,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/the-hexagon-network-tourism.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/the-hexagon-network-tourism.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/the-hexagon-restaurant.jpg": {
 		"fileType": 16384,
@@ -436,7 +466,17 @@
 		"inputAbbreviatedPath": "\/assets\/img\/the-hexagon-restaurant.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/the-hexagon-restaurant.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/tourism-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80874,
+		"inputAbbreviatedPath": "\/assets\/img\/tourism-bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/tourism-bg.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-logo.jpg": {
 		"fileType": 16384,
@@ -446,7 +486,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-logo.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-logo.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-banner-image.jpg": {
 		"fileType": 16384,
@@ -456,7 +496,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-banner-image.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-banner-image.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue1.jpg": {
 		"fileType": 16384,
@@ -466,7 +506,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue1.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue2.jpg": {
 		"fileType": 16384,
@@ -476,7 +516,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue2.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue2b.jpg": {
 		"fileType": 16384,
@@ -486,7 +526,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue2b.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue2b.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page1.jpg": {
 		"fileType": 16384,
@@ -496,7 +536,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page1.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page2.jpg": {
 		"fileType": 16384,
@@ -506,7 +546,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page2.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page3.jpg": {
 		"fileType": 16384,
@@ -516,7 +556,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page3.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page4.jpg": {
 		"fileType": 16384,
@@ -526,7 +566,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page4.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page4.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page5.jpg": {
 		"fileType": 16384,
@@ -536,7 +576,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page5.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page5.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3-page6.jpg": {
 		"fileType": 16384,
@@ -546,7 +586,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page6.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3-page6.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/urban-royale-magazine-issue3.jpg": {
 		"fileType": 16384,
@@ -556,7 +596,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/urban-royale-magazine-issue3.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/valentine-lovers-ball.jpg": {
 		"fileType": 16384,
@@ -566,7 +606,7 @@
 		"inputAbbreviatedPath": "\/assets\/img\/valentine-lovers-ball.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/valentine-lovers-ball.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/js\/app.js": {
 		"fileType": 64,
@@ -1049,152 +1089,162 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/AttrPlugin.min.js": {
+	"\/assets\/js\/greensock\/AttrPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/AttrPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/AttrPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/AttrPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/AttrPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/BezierPlugin.min.js": {
+	"\/assets\/js\/greensock\/BezierPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/BezierPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/BezierPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/BezierPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/BezierPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/ColorPropsPlugin.min.js": {
+	"\/assets\/js\/greensock\/ColorPropsPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/ColorPropsPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/ColorPropsPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/ColorPropsPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/ColorPropsPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/CSSPlugin.min.js": {
+	"\/assets\/js\/greensock\/CSSPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/CSSPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/CSSPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/CSSPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/CSSPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/CSSRulePlugin.min.js": {
+	"\/assets\/js\/greensock\/CSSRulePlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/CSSRulePlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/CSSRulePlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/CSSRulePlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/CSSRulePlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/DirectionalRotationPlugin.min.js": {
+	"\/assets\/js\/greensock\/DirectionalRotationPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/DirectionalRotationPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/DirectionalRotationPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/DirectionalRotationPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/DirectionalRotationPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/EaselPlugin.min.js": {
+	"\/assets\/js\/greensock\/EaselPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/EaselPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/EaselPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/EaselPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/EaselPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/KineticPlugin.min.js": {
+	"\/assets\/js\/greensock\/KineticPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/KineticPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/KineticPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/KineticPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/KineticPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/Physics2DPlugin.min.js": {
+	"\/assets\/js\/greensock\/Physics2DPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/Physics2DPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/Physics2DPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/Physics2DPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/Physics2DPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/PhysicsPropsPlugin.min.js": {
+	"\/assets\/js\/greensock\/PhysicsPropsPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/PhysicsPropsPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/PhysicsPropsPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/PhysicsPropsPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/PhysicsPropsPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/RaphaelPlugin.min.js": {
+	"\/assets\/js\/greensock\/RaphaelPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/RaphaelPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/RaphaelPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/RaphaelPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/RaphaelPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/RoundPropsPlugin.min.js": {
+	"\/assets\/js\/greensock\/RoundPropsPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/RoundPropsPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/RoundPropsPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/RoundPropsPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/RoundPropsPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/ScrambleTextPlugin.min.js": {
+	"\/assets\/js\/greensock\/ScrambleTextPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/ScrambleTextPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/ScrambleTextPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/ScrambleTextPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/ScrambleTextPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/TextPlugin.min.js": {
+	"\/assets\/js\/greensock\/TextPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/TextPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/TextPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/TextPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/TextPlugin.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/Greensock\/ThrowPropsPlugin.min.js": {
+	"\/assets\/js\/greensock\/ThrowPropsPlugin.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/Greensock\/ThrowPropsPlugin.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/Greensock\/min\/ThrowPropsPlugin.min-ck.js",
+		"inputAbbreviatedPath": "\/assets\/js\/greensock\/ThrowPropsPlugin.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/greensock\/min\/ThrowPropsPlugin.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.imgpreload.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.imgpreload.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.imgpreload.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1205,6 +1255,16 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/jquery.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.preload.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.preload.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.preload-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1235,6 +1295,16 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/min\/jquery.min-ck.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/jquery.min-ck-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/jquery.preload-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/jquery.preload-ck.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/jquery.preload-ck-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
